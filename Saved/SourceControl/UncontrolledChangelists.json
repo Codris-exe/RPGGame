@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/FirstYear/RPG_Game/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/ABP_Vikram.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Lean/Lean_Left.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Lean/Lean_Right.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Vaulting/VaultOver.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Vikram/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2H/CVLWVIBDP9VKYPM0G6RS8Y.uasset",
+				"C:/Projects/FirstYear/RPG_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue3.uasset"
+			]
+		}
+	]
+}
