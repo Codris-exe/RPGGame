@@ -3418,3 +3418,181 @@ LogInit: Object subsystem initialized
 [2025.12.27-13.21.53:641][416]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
 [2025.12.27-13.21.53:642][416]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BP_ThirdPersonCharacter_Auto75BE59D784F3517BCDE4426B881894673.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
 [2025.12.27-13.21.53:644][416]LogFileHelpers: Auto-saving content packages took 0.270
+[2025.12.27-13.25.44:754][ 90]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.12.27-13.25.44:933][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.12.27-13.25.44:951][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.25.44:951][ 90]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.25.44:955][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.25.44:955][ 90]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.25.44:959][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.25.44:959][ 90]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_11.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.25.44:962][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.25.44:962][ 90]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.25.45:071][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.25.45:073][ 90]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.25.45:077][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.25.45:077][ 90]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.25.45:080][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.25.45:080][ 90]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.25.45:643][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-13.25.45:920][109]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.12.27-13.25.45:921][109]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BP_ThirdPersonCharacterAA0F3DA34EFCF4C20F04A1B61E2CE025.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.12.27-13.25.45:940][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 297 ms (total: 4.79 sec)
+[2025.12.27-13.25.45:957][109]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.12.27-13.25.45:957][109]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.12.27-13.26.03:136][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.26.03:824][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5483.759277
+[2025.12.27-13.26.04:233][832]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.27-13.26.04:233][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5484.151855, Update Interval: 353.166290
+[2025.12.27-13.26.04:653][835]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2025.12.27-13.26.04:781][836]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.26.04:962][841]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.26.26:253][ 30]LogContentBrowser: Deferred new asset file creation: MM_Run_Fwd1
+[2025.12.27-13.26.26:268][ 30]LogContentBrowser: Creating deferred item: MM_Run_Fwd1
+[2025.12.27-13.26.26:298][ 31]LogContentBrowser: Renaming the item being created (Deferred Item: MM_Run_Fwd1).
+[2025.12.27-13.26.32:264][355]LogContentBrowser: Attempting asset rename: MM_Run_Fwd1 -> MM_Sprint
+[2025.12.27-13.26.32:288][355]LogContentBrowser: End creating deferred item MM_Run_Fwd1
+[2025.12.27-13.26.35:594][515]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Sprint.MM_Sprint
+[2025.12.27-13.26.35:635][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.26.35:635][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.26.35:773][515]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.12.27-13.26.35:806][515]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.27-13.26.36:367][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.26.36:367][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.26.36:598][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.26.36:640][515]LogSlate: Took 0.009580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.27-13.26.36:663][515]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.12.27-13.26.36:672][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.26.36:672][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.26.36:705][515]LogViewport: Scene viewport resized to 736x335, mode Windowed.
+[2025.12.27-13.26.36:739][515]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.12.27-13.26.36:979][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.26.38:005][547]LogViewport: Scene viewport resized to 734x349, mode Windowed.
+[2025.12.27-13.26.38:168][549]LogViewport: Scene viewport resized to 466x198, mode Windowed.
+[2025.12.27-13.26.38:270][550]LogViewport: Scene viewport resized to 1138x562, mode Windowed.
+[2025.12.27-13.26.39:092][590]LogSlate: Window 'MM_Sprint' being destroyed
+[2025.12.27-13.27.24:882][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-13.27.25:079][ 80]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Sprint
+[2025.12.27-13.27.25:079][ 80]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/MM_SprintD6E4E3F0443645665C50D0A257BECB3E.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Characters/Mannequins/Animations/Manny/MM_Sprint.uasset'
+[2025.12.27-13.27.25:106][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 5.01 sec)
+[2025.12.27-13.27.25:110][ 80]AssetCheck: New page: Asset Save: MM_Sprint
+[2025.12.27-13.27.25:110][ 80]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Sprint.MM_Sprint
+[2025.12.27-13.27.26:284][133]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-13.27.26:284][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-13.27.26:303][133]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-13.27.26:303][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-13.27.26:396][133]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-13.27.26:396][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-13.27.40:366][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.27.40:376][387]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Vikram_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Vikram_C_0
+	Function /Game/Characters/Vikram/Animations/ABP_Vikram.ABP_Vikram_C:ExecuteUbergraph_ABP_Vikram:027E
+[2025.12.27-13.27.40:376][387]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Vikram_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Vikram_C_0
+	Function /Game/Characters/Vikram/Animations/ABP_Vikram.ABP_Vikram_C:ExecuteUbergraph_ABP_Vikram:032B
+[2025.12.27-13.27.40:376][387]LogScript: Warning: Accessed None trying to read property Character
+	ABP_Vikram_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Vikram_C_0
+	Function /Game/Characters/Vikram/Animations/ABP_Vikram.ABP_Vikram_C:ExecuteUbergraph_ABP_Vikram:0377
+[2025.12.27-13.27.40:376][387]LogScript: Warning: Accessed None
+	ABP_Vikram_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Vikram_C_0
+	Function /Game/Characters/Vikram/Animations/ABP_Vikram.ABP_Vikram_C:ExecuteUbergraph_ABP_Vikram:038C
+[2025.12.27-13.27.40:376][387]LogScript: Warning: Accessed None trying to read property Character
+	ABP_Vikram_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Vikram_C_0
+	Function /Game/Characters/Vikram/Animations/ABP_Vikram.ABP_Vikram_C:ExecuteUbergraph_ABP_Vikram:03D0
+[2025.12.27-13.27.40:376][387]LogScript: Warning: Accessed None trying to read property Character
+	ABP_Vikram_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Vikram_C_0
+	Function /Game/Characters/Vikram/Animations/ABP_Vikram.ABP_Vikram_C:ExecuteUbergraph_ABP_Vikram:0402
+[2025.12.27-13.27.40:376][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.27.40:376][387]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Vikram_C_0
+[2025.12.27-13.27.40:376][387]LogScript: Warning: Accessed None trying to read property Character
+	ABP_Vikram_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Vikram_C_0
+	Function /Game/Characters/Vikram/Animations/ABP_Vikram.ABP_Vikram_C:ExecuteUbergraph_ABP_Vikram:05A0
+[2025.12.27-13.27.45:883][542]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Vikram/Animations/Locomotion/LocomotionBlendSpace1D.LocomotionBlendSpace1D
+[2025.12.27-13.27.45:885][542]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.27.45:885][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.27.45:901][542]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.27-13.27.46:286][542]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.27.46:286][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.27.46:488][542]LogViewport: Scene viewport resized to 736x335, mode Windowed.
+[2025.12.27-13.27.46:501][542]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.12.27-13.27.48:153][600]LogViewport: Scene viewport resized to 734x349, mode Windowed.
+[2025.12.27-13.27.48:264][602]LogViewport: Scene viewport resized to 466x198, mode Windowed.
+[2025.12.27-13.27.48:325][603]LogViewport: Scene viewport resized to 1138x562, mode Windowed.
+[2025.12.27-13.27.48:955][639]LogSlate: Window 'LocomotionBlendSpace1D' being destroyed
+[2025.12.27-13.29.07:249][804]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2025.12.27-13.29.20:518][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-13.29.20:685][388]LogSavePackage: Moving output files for package: /Game/Characters/Vikram/Animations/Locomotion/LocomotionBlendSpace1D
+[2025.12.27-13.29.20:687][388]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/LocomotionBlendSpace1DBB6BD878413F14CB358C2593A44311DF.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Characters/Vikram/Animations/Locomotion/LocomotionBlendSpace1D.uasset'
+[2025.12.27-13.29.20:709][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 5.20 sec)
+[2025.12.27-13.29.20:712][388]AssetCheck: New page: Asset Save: LocomotionBlendSpace1D
+[2025.12.27-13.29.20:712][388]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Characters/Vikram/Animations/Locomotion/LocomotionBlendSpace1D.LocomotionBlendSpace1D
+[2025.12.27-13.29.31:456][567]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.27-13.29.31:468][567]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.27-13.29.31:468][567]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.27-13.29.31:471][567]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 74 ms)
+[2025.12.27-13.29.31:471][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.27-13.29.31:471][567]PIE: New page: PIE session: ThirdPersonMap (28-Dec-2025, 12:29:31 am)
+[2025.12.27-13.29.31:471][567]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2025.12.27-13.29.31:475][567]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.12.27-13.29.31:504][568]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-13.29.31:511][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006990s)
+[2025.12.27-13.29.31:511][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007062s)
+[2025.12.27-13.29.31:540][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.27-13.29.31:544][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.29.31:544][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.29.31:545][568]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.12.27-13.29.31:545][568]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.27-13.29.31:546][568]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.27-13.29.31:546][568]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.27-13.29.31:546][568]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.27-13.29.31:547][568]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.12.27-13.29.31:547][568]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 866 ms)
+[2025.12.27-13.29.31:547][568]LogPlayLevel: PIE: World Init took: (0.003634s)
+[2025.12.27-13.29.31:547][568]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.12.27-13.29.31:547][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.27-13.29.31:547][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.27-13.29.31:547][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.27-13.29.31:547][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.27-13.29.31:547][568]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.27-13.29.31:547][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.27-13.29.31:547][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.27-13.29.31:547][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.27-13.29.31:548][568]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.27-13.29.31:548][568]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.27-13.29.31:548][568]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.27-13.29.31:550][568]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.27-13.29.31:571][568]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.27-13.29.31:572][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.27-13.29.31:572][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.27-13.29.31:572][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.27-13.29.31:574][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.12.27-13.29.31:574][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.12.27-13.29.31:578][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.12.27-13.29.31:578][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.12.27-13.29.31:578][568]LogInit: FAudioDevice initialized with ID 24.
+[2025.12.27-13.29.31:578][568]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2025.12.27-13.29.31:578][568]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.27-13.29.31:583][568]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.27-13.29.31:589][568]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.12.27-18.59.31
+[2025.12.27-13.29.31:590][568]LogWorld: Bringing up level for play took: 0.006401
+[2025.12.27-13.29.31:592][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.29.31:592][568]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.29.31:597][568]PIE: Server logged in
+[2025.12.27-13.29.31:598][568]PIE: Play in editor total start time 0.131 seconds.
+[2025.12.27-13.29.55:515][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-13.29.55:515][778]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-13.29.55:516][778]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-13.29.55:517][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-13.29.55:517][778]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.12.27-13.29.55:529][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.27-13.29.55:535][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-13.29.55:559][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-13.29.55:559][778]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.27-13.29.55:559][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.12.27-13.29.55:565][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.12.27-13.29.55:581][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.12.27-13.29.55:618][779]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.12.27-13.31.00:093][216]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-13.31.00:093][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-13.31.00:176][216]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-13.31.00:176][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
