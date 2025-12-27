@@ -3596,3 +3596,725 @@ LogInit: Object subsystem initialized
 [2025.12.27-13.31.00:093][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.12.27-13.31.00:176][216]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
 [2025.12.27-13.31.00:176][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-13.32.36:849][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5876.781738
+[2025.12.27-13.32.38:136][  2]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.27-13.32.38:137][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5877.730957, Update Interval: 333.875549
+[2025.12.27-13.32.45:611][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2025.12.27-13.32.45:621][127]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.051
+[2025.12.27-13.32.45:623][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStates] ([2] browsable assets)...
+[2025.12.27-13.32.45:623][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStates]
+[2025.12.27-13.32.45:673][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStates_Auto8
+[2025.12.27-13.32.45:674][127]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStates_Auto8F23CA18B4C097F55A1C7CD8714D9971D.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/Autosaves/Game/Blueprints/BPC_PlayerStates_Auto8.uasset'
+[2025.12.27-13.32.45:675][127]LogFileHelpers: Auto-saving content packages took 0.053
+[2025.12.27-13.35.41:796][762]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-13.35.42:004][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.12.27-13.35.42:024][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.35.42:024][762]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.35.42:028][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.35.42:028][762]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.35.42:033][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.35.42:033][762]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.35.42:048][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.35.42:048][762]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.35.42:054][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.35.42:054][762]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.35.42:058][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.35.42:058][762]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.35.42:894][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-13.35.43:015][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-13.35.43:064][805]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-13.35.43:064][805]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStatesB671A08D4025DC5D57EF93AD0336F178.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-13.35.43:081][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 5.39 sec)
+[2025.12.27-13.35.43:094][805]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-13.35.43:094][805]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-13.36.43:719][395]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.12.27-13.37.18:346][736]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-13.37.18:425][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.12.27-13.37.18:457][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.37.18:457][736]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.37.18:464][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.37.18:464][736]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.37.18:471][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.37.18:471][736]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.37.18:494][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.37.18:494][736]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.37.18:505][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.37.18:506][736]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.37.18:517][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.37.18:517][736]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.37.19:218][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-13.37.19:321][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-13.37.19:368][770]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-13.37.19:368][770]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStates6A5C622648F21A22F1926C9A4A7BEA23.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-13.37.19:385][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 5.56 sec)
+[2025.12.27-13.37.19:392][770]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-13.37.19:392][770]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-13.38.50:744][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6250.671387
+[2025.12.27-13.38.51:074][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.27-13.38.51:075][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6250.980469, Update Interval: 311.189911
+[2025.12.27-13.39.03:622][713]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-13.39.03:695][713]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2025.12.27-13.39.03:732][713]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.03:733][713]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.39.03:744][713]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.03:744][713]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.39.03:755][713]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.03:755][713]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.39.03:793][713]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.03:793][713]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.39.03:803][713]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.03:803][713]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.39.03:809][713]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.03:810][713]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.39.12:796][228]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-13.39.12:871][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.27-13.39.12:895][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.12:895][228]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.39.12:899][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.12:899][228]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.39.12:903][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.12:903][228]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.39.12:913][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.12:913][228]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.39.12:918][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.12:918][228]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.39.12:921][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.39.12:921][228]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.39.13:775][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-13.39.13:917][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-13.39.13:952][273]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-13.39.13:953][273]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStatesF865A3A0463466FA9D3B2DBF6D0D489D.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-13.39.13:973][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 5.76 sec)
+[2025.12.27-13.39.13:978][273]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-13.39.13:978][273]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-13.42.40:983][760]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.12.27-13.43.12:673][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2025.12.27-13.43.12:683][226]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.042
+[2025.12.27-13.43.12:684][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStates] ([2] browsable assets)...
+[2025.12.27-13.43.12:684][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStates]
+[2025.12.27-13.43.12:727][226]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStates_Auto9
+[2025.12.27-13.43.12:728][226]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStates_Auto995CFC16A4E31D0B8145584957EBFFDF9.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/Autosaves/Game/Blueprints/BPC_PlayerStates_Auto9.uasset'
+[2025.12.27-13.43.12:730][226]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.12.27-13.43.33:185][623]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-13.43.33:259][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.12.27-13.43.33:280][623]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.43.33:280][623]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.43.33:287][623]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.43.33:287][623]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.43.33:293][623]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.43.33:293][623]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.43.33:310][623]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.43.33:310][623]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.43.33:315][623]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.43.33:315][623]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.43.33:319][623]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.43.33:319][623]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.43.35:074][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-13.43.35:193][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-13.43.35:246][709]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-13.43.35:248][709]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStatesA07D72D5482D37DB169819B9539A58A6.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-13.43.35:269][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 5.95 sec)
+[2025.12.27-13.43.35:273][709]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-13.43.35:273][709]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-13.44.36:446][124]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6596.384766
+[2025.12.27-13.44.37:103][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.27-13.44.37:103][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6597.003418, Update Interval: 357.416290
+[2025.12.27-13.44.37:613][151]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_HUD.WB_HUD
+[2025.12.27-13.44.37:623][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.44.37:623][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.44.37:633][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.44.37:633][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.44.37:642][151]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.12.27-13.44.37:920][151]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.12.27-13.48.58:779][727]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-13.48.58:779][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-13.48.58:790][727]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-13.48.58:790][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-13.49.02:325][903]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_HUD.WB_HUD
+[2025.12.27-13.49.02:326][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.49.02:326][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.49.02:335][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-13.49.02:335][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-13.51.12:875][800]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.27-13.51.24:870][447]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7004.824219
+[2025.12.27-13.51.25:283][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.27-13.51.25:283][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7005.213379, Update Interval: 342.148499
+[2025.12.27-13.53.39:462][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.12.27-13.53.39:466][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.046
+[2025.12.27-13.53.39:467][292]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_HUD] ([2] browsable assets)...
+[2025.12.27-13.53.39:477][292]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_HUD.WB_HUD]
+[2025.12.27-13.53.39:478][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_HUD]
+[2025.12.27-13.53.39:478][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_HUD" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/Autosaves/Game/UI/WB_HUD_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.12.27-13.53.39:489][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_HUD_Auto0
+[2025.12.27-13.53.39:490][292]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/WB_HUD_Auto08812FEAE4A0BAC90E8CB35AA8C688AF4.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/Autosaves/Game/UI/WB_HUD_Auto0.uasset'
+[2025.12.27-13.53.39:492][292]LogFileHelpers: Auto-saving content packages took 0.026
+[2025.12.27-13.54.55:418][940]BlueprintLog: New page: Compile WB_HUD
+[2025.12.27-13.54.55:478][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2025.12.27-13.54.55:508][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.54.55:508][940]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.54.55:517][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.54.55:517][940]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.54.55:521][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.54.55:521][940]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.54.55:608][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.54.55:608][940]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.54.55:611][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.54.55:611][940]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.54.55:616][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.54.55:616][940]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.54.56:386][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-13.54.56:516][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_HUD" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/UI/WB_HUD.uasset" SILENT=true
+[2025.12.27-13.54.56:540][970]LogSavePackage: Moving output files for package: /Game/UI/WB_HUD
+[2025.12.27-13.54.56:543][970]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/WB_HUDBBE862AB4AD5FBF078191FAD37242EF0.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/UI/WB_HUD.uasset'
+[2025.12.27-13.54.56:599][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 6.16 sec)
+[2025.12.27-13.54.56:624][970]AssetCheck: New page: Asset Save: WB_HUD
+[2025.12.27-13.54.56:625][970]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_HUD.WB_HUD
+[2025.12.27-13.56.33:701][757]LogDerivedDataCache: C:/Users/Rishab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.204 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1351 files in 2218 folders with total size 118 MiB.
+[2025.12.27-13.57.29:473][201]LogSlate: Took 0.011395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.12.27-13.57.37:751][653]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-13.57.37:849][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.12.27-13.57.37:867][653]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.57.37:867][653]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.57.37:872][653]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.57.37:872][653]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.57.37:876][653]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.57.37:876][653]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.57.37:889][653]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.57.37:889][653]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.57.37:893][653]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.57.37:893][653]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-13.57.37:897][653]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-13.57.37:897][653]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-13.57.38:785][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-13.57.38:868][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-13.57.38:904][691]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-13.57.38:905][691]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStatesB15C97C34CB8E55142494698834A3831.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-13.57.38:920][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 6.30 sec)
+[2025.12.27-13.57.38:930][691]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-13.57.38:930][691]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-13.57.47:205][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7387.166016
+[2025.12.27-13.57.47:607][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.27-13.57.47:607][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7387.551758, Update Interval: 300.249023
+[2025.12.27-14.02.27:824][392]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-14.02.27:842][392]LogBlueprint: Error: [AssetLog] C:\Projects\FirstYear\RPGGame\RPGGame\Content\Blueprints\BPC_PlayerStates.uasset: [Compiler] The current value (1.000000) of the ' Level Gain ' pin is invalid: Expected a valid number for an integer property
+[2025.12.27-14.02.27:901][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.12.27-14.02.27:944][392]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.27:944][392]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.02.27:949][392]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.27:949][392]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.02.27:953][392]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.27:953][392]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.02.27:966][392]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.27:966][392]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.02.27:971][392]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.27:971][392]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.02.27:977][392]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.27:977][392]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.02.51:150][666]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-14.02.51:168][666]LogBlueprint: Error: [AssetLog] C:\Projects\FirstYear\RPGGame\RPGGame\Content\Blueprints\BPC_PlayerStates.uasset: [Compiler] The current value (1.000000) of the ' Level Gain ' pin is invalid: Expected a valid number for an integer property
+[2025.12.27-14.02.51:231][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2025.12.27-14.02.51:284][666]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.51:284][666]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.02.51:291][666]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.51:291][666]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.02.51:295][666]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.51:295][666]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.02.51:310][666]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.51:310][666]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.02.51:316][666]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.51:316][666]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.02.51:320][666]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.02.51:320][666]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.03.18:127][142]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-14.03.18:211][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2025.12.27-14.03.18:234][142]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.03.18:234][142]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.03.18:241][142]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.03.18:241][142]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.03.18:247][142]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.03.18:247][142]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.03.18:263][142]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.03.18:263][142]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.03.18:268][142]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.03.18:269][142]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.03.18:275][142]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.03.18:275][142]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.03.27:930][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-14.03.28:096][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-14.03.28:134][694]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-14.03.28:135][694]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStatesD38F2A2D4A1F925EFF7F1B901E751FC8.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-14.03.28:150][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 6.52 sec)
+[2025.12.27-14.03.28:155][694]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-14.03.28:155][694]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-14.03.28:178][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7728.133301
+[2025.12.27-14.03.28:569][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.27-14.03.28:569][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7728.504883, Update Interval: 336.737579
+[2025.12.27-14.05.15:943][655]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2025.12.27-14.05.15:949][655]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.063
+[2025.12.27-14.05.15:951][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStates] ([2] browsable assets)...
+[2025.12.27-14.05.15:951][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStates]
+[2025.12.27-14.05.16:013][655]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStates_Auto1
+[2025.12.27-14.05.16:014][655]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStates_Auto165B9C2344E350C63D629619275535E12.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/Autosaves/Game/Blueprints/BPC_PlayerStates_Auto1.uasset'
+[2025.12.27-14.05.16:016][655]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_HUD] ([2] browsable assets)...
+[2025.12.27-14.05.16:024][655]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_HUD.WB_HUD]
+[2025.12.27-14.05.16:024][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_HUD]
+[2025.12.27-14.05.16:024][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_HUD" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/Autosaves/Game/UI/WB_HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.27-14.05.16:031][655]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_HUD_Auto1
+[2025.12.27-14.05.16:031][655]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/WB_HUD_Auto1F5770C254817A66671153C8EF06D3B3E.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/Autosaves/Game/UI/WB_HUD_Auto1.uasset'
+[2025.12.27-14.05.16:032][655]LogFileHelpers: Auto-saving content packages took 0.084
+[2025.12.27-14.07.02:962][200]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-14.07.02:981][200]LogBlueprint: Error: [AssetLog] C:\Projects\FirstYear\RPGGame\RPGGame\Content\Blueprints\BPC_PlayerStates.uasset: [Compiler] The property associated with  Exp Bar  could not be found in '/Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates_C'
+[2025.12.27-14.07.02:982][200]LogBlueprint: Error: [AssetLog] C:\Projects\FirstYear\RPGGame\RPGGame\Content\Blueprints\BPC_PlayerStates.uasset: [Compiler] The property associated with  Exp Bar  could not be found in '/Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates_C'
+[2025.12.27-14.07.03:045][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.12.27-14.07.03:095][200]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.03:095][200]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.03:099][200]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.03:099][200]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.03:103][200]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.03:103][200]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.07.03:115][200]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.03:115][200]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.03:122][200]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.03:122][200]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.03:127][200]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.03:127][200]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.07.38:291][182]BlueprintLog: New page: Compile WB_HUD
+[2025.12.27-14.07.38:351][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.27-14.07.38:385][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.38:385][182]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.38:389][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.38:389][182]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.38:393][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.38:393][182]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.07.38:481][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.38:481][182]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.38:487][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.38:487][182]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.38:491][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.38:491][182]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.07.39:511][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-14.07.39:628][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_HUD" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/UI/WB_HUD.uasset" SILENT=true
+[2025.12.27-14.07.39:637][221]LogSavePackage: Moving output files for package: /Game/UI/WB_HUD
+[2025.12.27-14.07.39:638][221]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/WB_HUDF12B3F03448AF798CC3393A7072D0952.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/UI/WB_HUD.uasset'
+[2025.12.27-14.07.39:673][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 6.68 sec)
+[2025.12.27-14.07.39:691][221]AssetCheck: New page: Asset Save: WB_HUD
+[2025.12.27-14.07.39:691][221]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_HUD.WB_HUD
+[2025.12.27-14.07.41:511][314]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-14.07.41:593][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2025.12.27-14.07.41:630][314]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.41:630][314]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.41:637][314]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.41:637][314]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.41:642][314]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.41:642][314]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.07.41:660][314]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.41:660][314]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.41:666][314]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.41:666][314]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.07.41:673][314]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.07.41:673][314]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.07.42:574][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-14.07.42:739][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-14.07.42:783][360]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-14.07.42:783][360]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStatesEE02E43943236CEBD33289B1E78CC16E.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-14.07.42:801][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 6.91 sec)
+[2025.12.27-14.07.42:807][360]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-14.07.42:807][360]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-14.09.11:476][234]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-14.09.11:675][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.12.27-14.09.11:724][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.09.11:724][234]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.09.11:729][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.09.11:729][234]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.09.11:733][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.09.11:733][234]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.09.11:751][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.09.11:751][234]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.09.11:755][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.09.11:755][234]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.09.11:759][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.09.11:759][234]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.09.12:312][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-14.09.12:465][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-14.09.12:533][256]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-14.09.12:534][256]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStates2DC29F544A815CF1B4439FBC0FE144A4.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-14.09.12:549][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 7.15 sec)
+[2025.12.27-14.09.12:564][256]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-14.09.12:564][256]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-14.09.13:841][323]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.27-14.09.13:853][323]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.27-14.09.13:853][323]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.27-14.09.13:854][323]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 76 ms)
+[2025.12.27-14.09.13:855][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.27-14.09.13:855][323]PIE: New page: PIE session: ThirdPersonMap (28-Dec-2025, 1:09:13 am)
+[2025.12.27-14.09.13:855][323]LogPlayLevel: Display: Creating online subsystem for client :Context_47
+[2025.12.27-14.09.13:859][323]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.12.27-14.09.13:873][324]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-14.09.13:881][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008517s)
+[2025.12.27-14.09.13:883][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008625s)
+[2025.12.27-14.09.13:899][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.12.27-14.09.13:906][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-14.09.13:906][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-14.09.13:907][324]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.12.27-14.09.13:908][324]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.27-14.09.13:908][324]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.27-14.09.13:909][324]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.27-14.09.13:909][324]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.27-14.09.13:910][324]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.12.27-14.09.13:910][324]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 868 ms)
+[2025.12.27-14.09.13:910][324]LogPlayLevel: PIE: World Init took: (0.004772s)
+[2025.12.27-14.09.13:910][324]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.12.27-14.09.13:911][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.27-14.09.13:911][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.27-14.09.13:911][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.27-14.09.13:911][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.27-14.09.13:911][324]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.27-14.09.13:911][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.27-14.09.13:911][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.27-14.09.13:911][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.27-14.09.13:911][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.27-14.09.13:913][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.27-14.09.13:913][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.27-14.09.13:916][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.27-14.09.13:971][324]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.27-14.09.13:973][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.27-14.09.13:973][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.27-14.09.13:973][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.27-14.09.13:974][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.12.27-14.09.13:974][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.12.27-14.09.13:979][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.12.27-14.09.13:979][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.12.27-14.09.13:979][324]LogInit: FAudioDevice initialized with ID 25.
+[2025.12.27-14.09.13:979][324]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2025.12.27-14.09.13:979][324]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.12.27-14.09.14:118][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-14.09.14:119][324]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.27-14.09.14:129][324]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.12.27-19.39.14
+[2025.12.27-14.09.14:130][324]LogWorld: Bringing up level for play took: 0.009858
+[2025.12.27-14.09.14:132][324]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.09.14:132][324]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.09.14:143][324]PIE: Server logged in
+[2025.12.27-14.09.14:145][324]PIE: Play in editor total start time 0.293 seconds.
+[2025.12.27-14.09.14:166][324]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.12.27-14.09.29:105][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-14.09.29:105][943]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-14.09.29:106][943]LogSlate: Window 'RPG_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.27-14.09.29:125][943]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-14.09.29:126][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.09.29:126][943]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.12.27-14.09.29:132][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.27-14.09.29:141][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.09.29:170][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.27-14.09.29:171][943]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.12.27-14.09.29:173][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.12.27-14.09.29:178][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.12.27-14.09.29:209][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.12.27-14.09.29:261][944]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.12.27-14.09.42:066][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8102.025391
+[2025.12.27-14.09.42:756][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.27-14.09.42:756][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8102.697754, Update Interval: 308.655670
+[2025.12.27-14.09.43:564][110]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.27-14.09.43:572][110]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.27-14.09.43:572][110]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.27-14.09.43:575][110]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 79 ms)
+[2025.12.27-14.09.43:575][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.27-14.09.43:575][110]PIE: New page: PIE session: ThirdPersonMap (28-Dec-2025, 1:09:43 am)
+[2025.12.27-14.09.43:575][110]LogPlayLevel: Display: Creating online subsystem for client :Context_48
+[2025.12.27-14.09.43:579][110]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.12.27-14.09.43:590][111]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-14.09.43:599][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008322s)
+[2025.12.27-14.09.43:599][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008421s)
+[2025.12.27-14.09.43:612][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.27-14.09.43:614][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-14.09.43:614][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-14.09.43:615][111]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.12.27-14.09.43:615][111]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.27-14.09.43:615][111]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.27-14.09.43:615][111]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.27-14.09.43:615][111]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.27-14.09.43:617][111]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.12.27-14.09.43:617][111]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 869 ms)
+[2025.12.27-14.09.43:617][111]LogPlayLevel: PIE: World Init took: (0.003061s)
+[2025.12.27-14.09.43:617][111]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.12.27-14.09.43:617][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.27-14.09.43:617][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.27-14.09.43:617][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.27-14.09.43:617][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.27-14.09.43:617][111]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.27-14.09.43:617][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.27-14.09.43:617][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.27-14.09.43:617][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.27-14.09.43:617][111]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.27-14.09.43:617][111]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.27-14.09.43:617][111]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.27-14.09.43:620][111]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.27-14.09.43:639][111]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.27-14.09.43:640][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.27-14.09.43:640][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.27-14.09.43:640][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.27-14.09.43:641][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.12.27-14.09.43:641][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.12.27-14.09.43:645][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.12.27-14.09.43:645][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.12.27-14.09.43:646][111]LogInit: FAudioDevice initialized with ID 26.
+[2025.12.27-14.09.43:646][111]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2025.12.27-14.09.43:646][111]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.12.27-14.09.43:766][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-14.09.43:766][111]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.27-14.09.43:775][111]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.12.27-19.39.43
+[2025.12.27-14.09.43:776][111]LogWorld: Bringing up level for play took: 0.008932
+[2025.12.27-14.09.43:781][111]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.09.43:781][111]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.09.43:801][111]PIE: Server logged in
+[2025.12.27-14.09.43:805][111]PIE: Play in editor total start time 0.233 seconds.
+[2025.12.27-14.09.43:827][111]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.12.27-14.09.46:385][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-14.09.46:385][208]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-14.09.46:387][208]LogSlate: Window 'RPG_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.27-14.09.46:401][208]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-14.09.46:401][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.09.46:403][208]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.12.27-14.09.46:409][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.27-14.09.46:416][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.09.46:449][208]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.12.27-14.09.46:449][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.12.27-14.09.46:455][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.12.27-14.09.46:468][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.12.27-14.09.46:506][209]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.12.27-14.11.31:660][758]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-14.11.31:660][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.11.31:670][758]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-14.11.31:671][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.11.33:248][844]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-14.11.33:249][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.11.53:313][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.11.53:313][856]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.11.53:322][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.11.53:324][856]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.11.53:333][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.11.53:333][856]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.12.49:827][506]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.12.27-14.12.49:988][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.27-14.12.49:999][506]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.12.49:999][506]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.12.50:004][506]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.12.50:004][506]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.12.50:007][506]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.12.50:007][506]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_12.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.12.50:011][506]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.12.50:011][506]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_13.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.12.50:122][506]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.12.50:122][506]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.12.50:127][506]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.12.50:127][506]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.12.50:131][506]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.12.50:131][506]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_13.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.12.50:882][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-14.12.51:207][531]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.12.27-14.12.51:207][531]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BP_ThirdPersonCharacter360F5FAC456CB951C23937B09D52EF14.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.12.27-14.12.51:219][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 7.48 sec)
+[2025.12.27-14.12.51:222][531]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.12.27-14.12.51:222][531]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.12.27-14.12.52:203][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.27-14.12.52:211][586]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.27-14.12.52:211][586]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.27-14.12.52:214][586]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 81 ms)
+[2025.12.27-14.12.52:214][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.27-14.12.52:214][586]PIE: New page: PIE session: ThirdPersonMap (28-Dec-2025, 1:12:52 am)
+[2025.12.27-14.12.52:214][586]LogPlayLevel: Display: Creating online subsystem for client :Context_49
+[2025.12.27-14.12.52:218][586]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.12.27-14.12.52:235][587]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-14.12.52:244][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008717s)
+[2025.12.27-14.12.52:244][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008842s)
+[2025.12.27-14.12.52:263][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.12.27-14.12.52:268][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-14.12.52:269][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-14.12.52:269][587]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.12.27-14.12.52:270][587]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.27-14.12.52:270][587]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.27-14.12.52:270][587]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.27-14.12.52:270][587]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.27-14.12.52:272][587]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.12.27-14.12.52:272][587]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 872 ms)
+[2025.12.27-14.12.52:272][587]LogPlayLevel: PIE: World Init took: (0.004390s)
+[2025.12.27-14.12.52:272][587]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.12.27-14.12.52:272][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.27-14.12.52:272][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.27-14.12.52:272][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.27-14.12.52:272][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.27-14.12.52:272][587]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.27-14.12.52:272][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.27-14.12.52:272][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.27-14.12.52:272][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.27-14.12.52:273][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.27-14.12.52:273][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.27-14.12.52:273][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.27-14.12.52:278][587]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.27-14.12.52:312][587]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.27-14.12.52:313][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.27-14.12.52:313][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.27-14.12.52:313][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.27-14.12.52:314][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.12.27-14.12.52:314][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.12.27-14.12.52:318][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.12.27-14.12.52:318][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.12.27-14.12.52:318][587]LogInit: FAudioDevice initialized with ID 27.
+[2025.12.27-14.12.52:318][587]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2025.12.27-14.12.52:318][587]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.12.27-14.12.52:439][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-14.12.52:439][587]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.27-14.12.52:447][587]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.12.27-19.42.52
+[2025.12.27-14.12.52:450][587]LogWorld: Bringing up level for play took: 0.010313
+[2025.12.27-14.12.52:454][587]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.12.52:454][587]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.12.52:478][587]PIE: Server logged in
+[2025.12.27-14.12.52:488][587]PIE: Play in editor total start time 0.277 seconds.
+[2025.12.27-14.12.52:519][587]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.12.27-14.13.04:866][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-14.13.04:866][153]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-14.13.04:867][153]LogSlate: Window 'RPG_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.27-14.13.04:891][153]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-14.13.04:893][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.13.04:893][153]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.12.27-14.13.04:904][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.27-14.13.04:912][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.13.04:970][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.27-14.13.04:972][153]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.12.27-14.13.04:972][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.12.27-14.13.04:980][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.12.27-14.13.04:999][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2025.12.27-14.13.05:062][154]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.12.27-14.13.55:496][697]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.13.55:496][697]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.13.55:500][697]LogViewport: Scene viewport resized to 1141x915, mode Windowed.
+[2025.12.27-14.14.11:968][536]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-14.14.11:969][536]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-14.14.11:970][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-14.15.18:957][771]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-14.15.19:157][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.27-14.15.19:203][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.15.19:204][771]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.15.19:208][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.15.19:208][771]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.15.19:211][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.15.19:211][771]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_13.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.15.19:221][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.15.19:221][771]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.15.19:226][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.15.19:226][771]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.15.19:229][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.15.19:229][771]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_13.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.15.20:005][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-14.15.20:131][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-14.15.20:169][804]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-14.15.20:169][804]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStates894F3FFB46EFF108D6EEE5B6DCD21604.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-14.15.20:182][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 7.66 sec)
+[2025.12.27-14.15.20:187][804]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-14.15.20:187][804]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-14.15.21:621][887]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.27-14.15.21:629][887]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.27-14.15.21:629][887]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.27-14.15.21:633][887]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 85 ms)
+[2025.12.27-14.15.21:633][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.27-14.15.21:633][887]PIE: New page: PIE session: ThirdPersonMap (28-Dec-2025, 1:15:21 am)
+[2025.12.27-14.15.21:634][887]LogPlayLevel: Display: Creating online subsystem for client :Context_51
+[2025.12.27-14.15.21:638][887]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.12.27-14.15.21:647][888]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-14.15.21:653][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006231s)
+[2025.12.27-14.15.21:653][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006311s)
+[2025.12.27-14.15.21:673][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.27-14.15.21:677][888]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.27-14.15.21:678][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.27-14.15.21:678][888]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.12.27-14.15.21:679][888]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.27-14.15.21:679][888]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.27-14.15.21:679][888]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.27-14.15.21:679][888]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.27-14.15.21:681][888]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.12.27-14.15.21:681][888]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 874 ms)
+[2025.12.27-14.15.21:681][888]LogPlayLevel: PIE: World Init took: (0.004133s)
+[2025.12.27-14.15.21:681][888]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.12.27-14.15.21:681][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.27-14.15.21:681][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.27-14.15.21:682][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.27-14.15.21:682][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.27-14.15.21:682][888]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.27-14.15.21:682][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.27-14.15.21:682][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.27-14.15.21:682][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.27-14.15.21:682][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.27-14.15.21:682][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.27-14.15.21:682][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.27-14.15.21:685][888]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.27-14.15.21:708][888]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.27-14.15.21:709][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.27-14.15.21:709][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.27-14.15.21:709][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.27-14.15.21:710][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.12.27-14.15.21:710][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.12.27-14.15.21:713][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.12.27-14.15.21:713][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.12.27-14.15.21:713][888]LogInit: FAudioDevice initialized with ID 28.
+[2025.12.27-14.15.21:713][888]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonMap'.
+[2025.12.27-14.15.21:713][888]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.12.27-14.15.21:794][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-14.15.21:794][888]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.27-14.15.21:804][888]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.12.27-19.45.21
+[2025.12.27-14.15.21:806][888]LogWorld: Bringing up level for play took: 0.010612
+[2025.12.27-14.15.21:809][888]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.15.21:809][888]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.15.21:819][888]PIE: Server logged in
+[2025.12.27-14.15.21:820][888]PIE: Play in editor total start time 0.191 seconds.
+[2025.12.27-14.15.21:835][888]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.12.27-14.15.35:636][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8455.609375
+[2025.12.27-14.15.36:078][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.27-14.15.36:078][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8456.030273, Update Interval: 313.746155
+[2025.12.27-14.15.45:477][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.27-14.15.45:478][943]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.27-14.15.45:480][943]LogSlate: Window 'RPG_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.27-14.15.45:529][943]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.27-14.15.45:531][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.15.45:531][943]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.12.27-14.15.45:541][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.27-14.15.45:550][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.27-14.15.45:587][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.27-14.15.45:588][943]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.12.27-14.15.45:589][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.12.27-14.15.45:595][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.12.27-14.15.45:631][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2025.12.27-14.15.45:688][944]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.12.27-14.16.02:769][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-14.16.02:893][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-14.16.02:942][926]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-14.16.02:942][926]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStates5C0E35CA4133E502B487029A70EE5D3F.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-14.16.02:959][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 7.85 sec)
+[2025.12.27-14.16.02:965][926]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-14.16.02:965][926]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
+[2025.12.27-14.18.04:601][609]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2025.12.27-14.18.04:612][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.059
+[2025.12.27-14.18.04:613][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStates] ([2] browsable assets)...
+[2025.12.27-14.18.04:613][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStates]
+[2025.12.27-14.18.04:683][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStates_Auto2
+[2025.12.27-14.18.04:684][609]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStates_Auto2213C800A4690D3D6ABA4B8BD8EA9241F.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/Autosaves/Game/Blueprints/BPC_PlayerStates_Auto2.uasset'
+[2025.12.27-14.18.04:685][609]LogFileHelpers: Auto-saving content packages took 0.073
+[2025.12.27-14.18.39:881][ 16]BlueprintLog: New page: Compile BPC_PlayerStates
+[2025.12.27-14.18.39:960][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.12.27-14.18.39:993][ 16]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.18.39:993][ 16]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.18.39:998][ 16]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.18.39:998][ 16]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.18.40:002][ 16]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.18.40:002][ 16]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_13.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.18.40:017][ 16]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.18.40:017][ 16]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.18.40:021][ 16]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.18.40:021][ 16]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Vikram_C_1
+[2025.12.27-14.18.40:026][ 16]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.27-14.18.40:026][ 16]LogScript: Warning: Script Msg called by: ABP_Vikram_C /Engine/Transient.World_3:PersistentLevel.BP_ThirdPersonCharacter_C_13.CharacterMesh0.ABP_Vikram_C_0
+[2025.12.27-14.18.40:688][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.27-14.18.40:828][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStates" FILE="../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset" SILENT=true
+[2025.12.27-14.18.40:870][ 50]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStates
+[2025.12.27-14.18.40:871][ 50]LogSavePackage: Moving '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Saved/BPC_PlayerStates4E5F33F64E712317E6889F87A8BFAF41.tmp' to '../../../../../../Projects/FirstYear/RPGGame/RPGGame/Content/Blueprints/BPC_PlayerStates.uasset'
+[2025.12.27-14.18.40:889][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 8.05 sec)
+[2025.12.27-14.18.40:895][ 50]AssetCheck: New page: Asset Save: BPC_PlayerStates
+[2025.12.27-14.18.40:895][ 50]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStates.BPC_PlayerStates
